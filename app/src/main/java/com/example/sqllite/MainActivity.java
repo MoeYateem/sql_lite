@@ -16,7 +16,6 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     ListView pop_list;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
